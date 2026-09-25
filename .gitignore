@@ -58,6 +58,7 @@ ExportedObj/
 *.mdb
 *.opendb
 *.VC.db
+*.vscode
 
 # Unity3D generated meta files
 *.pidb.meta
@@ -66,6 +67,9 @@ ExportedObj/
 
 # Unity3D generated file on crash reports
 sysinfo.txt
+CHANGELOG.md
+Documentation
+LICENSE.md
 
 # Mono auto generated files
 mono_crash.*
