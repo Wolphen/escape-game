@@ -1,11 +1,6 @@
 using System.Collections;
 using UnityEngine;
 
-/// <summary>
-/// Sliding door to the next room. Call Open() from the Socket Interactor's "Select Entered" event.
-/// When the door opens, the objects listed in "Activate On Open" are activated
-/// (ex: the teleportation area of the next room, which stays disabled until then).
-/// </summary>
 public class RoomDoor : MonoBehaviour
 {
     [Header("Door")]

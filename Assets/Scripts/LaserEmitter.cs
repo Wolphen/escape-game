@@ -50,6 +50,11 @@ public class LaserEmitter : MonoBehaviour
         SetOn(false);
     }
 
+    public void Toggle()
+    {
+        SetOn(!isOn);
+    }
+
     private void SetOn(bool on)
     {
         isOn = on;
