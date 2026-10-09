@@ -9344,7 +9344,7 @@ MonoBehaviour:
   reflectionLayers:
     serializedVersion: 2
     m_Bits: 64
-  startOn: 1
+  startOn: 0
   enableWhenOn:
   - {fileID: 1788119575}
   powerLevel: 8
