@@ -30,7 +30,6 @@ public class RoomDoor : MonoBehaviour
             if (go != null) go.SetActive(false);
     }
 
-    // To call from a UnityEvent
     public void Open()
     {
         if (opened) return;
